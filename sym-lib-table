@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name breadboard_power)(type Legacy)(uri ${KIPRJMOD}/breadboard_power.lib)(options "")(descr ""))
+  (lib (name barrel_jack)(type Legacy)(uri C:/Users/trent/Desktop/barrel_jack.lib)(options "")(descr "")(disabled))
+)
